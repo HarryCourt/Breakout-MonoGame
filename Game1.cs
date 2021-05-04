@@ -14,6 +14,7 @@ namespace Monogame
         // Variables
         private Classes.Paddle paddlePlayer;
         private Classes.Wall wall;
+        private Classes.GameBorder gameBorder;
 
         // Note: Set to 502x700 or equivilent for best results.
         private int screenWidth = 502;
@@ -56,6 +57,8 @@ namespace Monogame
 
             wall = new Classes.Wall(1,50, _spriteBatch, gameContent);
 
+            gameBorder = new Classes.GameBorder(screenWidth, screenHeight, _spriteBatch, gameContent);
+
         }
 
         protected override void Update(GameTime gameTime)
@@ -77,6 +80,8 @@ namespace Monogame
             // TODO: Add your drawing code here
             paddlePlayer.Draw();
             wall.Draw();
+            gameBorder.Draw();
+
             _spriteBatch.End(); // Finish drawing.
 
             base.Draw(gameTime);
