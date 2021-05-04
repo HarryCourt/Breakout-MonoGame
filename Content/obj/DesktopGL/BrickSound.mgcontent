@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/h/Documents/C# Projects/Monogame/Content/BrickSound.wav</SourceFile>
+  <SourceTime>2017-04-06T12:45:06+09:30</SourceTime>
+  <DestFile>C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/BrickSound.xnb</DestFile>
+  <DestTime>2021-05-04T10:15:57.8524057+09:30</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+09:30</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+09:30</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

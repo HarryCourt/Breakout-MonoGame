@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/Arial20.spritefont</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/ball.png</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/brick.png</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/BrickSound.wav</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/Logo.png</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/MissSound.wav</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/Paddle.png</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/PaddleBounceSound.wav</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/pixel.png</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/StartSound.wav</File>
+    <File>C:/Users/h/Documents/C# Projects/Monogame/Content/WallBounceSound.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

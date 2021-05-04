@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/h/Documents/C# Projects/Monogame/Content/Arial20.spritefont","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/Arial20.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37922,0.3153839
+"C:/Users/h/Documents/C# Projects/Monogame/Content/ball.png","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",932,985,0.1701173
+"C:/Users/h/Documents/C# Projects/Monogame/Content/brick.png","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/brick.xnb","TextureProcessor","Texture2DContent",378,3285,0.0024647
+"C:/Users/h/Documents/C# Projects/Monogame/Content/BrickSound.wav","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/BrickSound.xnb","SoundEffectProcessor","SoundEffectContent",18402,18463,0.3793915
+"C:/Users/h/Documents/C# Projects/Monogame/Content/Logo.png","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/Logo.xnb","TextureProcessor","Texture2DContent",55318,5683285,0.4948868
+"C:/Users/h/Documents/C# Projects/Monogame/Content/MissSound.wav","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/MissSound.xnb","SoundEffectProcessor","SoundEffectContent",186612,186673,0.1571781
+"C:/Users/h/Documents/C# Projects/Monogame/Content/Paddle.png","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/Paddle.xnb","TextureProcessor","Texture2DContent",254,3445,0.0092158
+"C:/Users/h/Documents/C# Projects/Monogame/Content/PaddleBounceSound.wav","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/PaddleBounceSound.xnb","SoundEffectProcessor","SoundEffectContent",14892,14953,0.144316
+"C:/Users/h/Documents/C# Projects/Monogame/Content/pixel.png","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/pixel.xnb","TextureProcessor","Texture2DContent",156,89,0.0030166
+"C:/Users/h/Documents/C# Projects/Monogame/Content/StartSound.wav","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/StartSound.xnb","SoundEffectProcessor","SoundEffectContent",11670,11731,0.145724
+"C:/Users/h/Documents/C# Projects/Monogame/Content/WallBounceSound.wav","C:/Users/h/Documents/C# Projects/Monogame/Content/bin/DesktopGL/WallBounceSound.xnb","SoundEffectProcessor","SoundEffectContent",45900,45961,0.153354
